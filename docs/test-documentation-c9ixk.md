@@ -14,8 +14,8 @@ next: false
 
 测试一下，能不能用
 
-![屏幕截图10](http://192.168.0.105:6806/assets/屏幕截图10-20260701230516-gt9l9ss.png)
+![屏幕截图10](https://r2.ifn.cc.cd/picgo/2026/07/5cc92f705aae4015e22745cd3e830ac4.png)
 
-![screenshot_250223_181843](http://192.168.0.105:6806/assets/screenshot_250223_181843-20260701230551-ceh2njr.jpg)
+![screenshot_250223_181843](https://r2.ifn.cc.cd/picgo/2026/07/ed7791cf289c197345195828bc15c9cd.jpg)
 
 ‍
